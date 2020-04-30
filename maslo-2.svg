@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="145px" height="142px" viewBox="0 0 145 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Maslo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-39.4%" y="-38.8%" width="178.9%" height="177.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.250980392   0 0 0 0 0.501960784  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="100%" y1="0%" x2="1.11022302e-14%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#7C55F2" offset="0%"></stop>
+            <stop stop-color="#B479F2" offset="51.1380058%"></stop>
+            <stop stop-color="#FABBEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#7C55F2" offset="0%"></stop>
+            <stop stop-color="#B479F2" offset="51.1380058%"></stop>
+            <stop stop-color="#FABBEA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="320" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="320---About-All-page" transform="translate(-90.000000, -2067.000000)" fill-rule="nonzero">
+            <g id="Block-3" transform="translate(20.000000, 1319.000000)">
+                <g id="2-step" transform="translate(4.000000, 682.000000)">
+                    <g id="Maslo" filter="url(#filter-1)" transform="translate(135.500000, 136.500000) rotate(-90.000000) translate(-135.500000, -136.500000) translate(74.000000, 74.000000)">
+                        <path d="M103,64 C103,88.3004848 82.5121457,108 57.7912942,108 C33.0704427,108 15.0444544,91.6004848 15.0444544,67.3 C15.0444544,60.6997576 14.5086114,51.1389091 17.157664,45.52 C24.261766,30.4515879 39.7848181,20 57.7912942,20 C82.5121457,20 103,39.6995152 103,64 Z" id="Shape" fill="url(#linearGradient-2)"></path>
+                        <path d="M103,64 C103,88.3004848 83.071852,108 58.4892394,108 C33.3406443,108 18.1867388,90.18 18.1867388,71.26 C18.1867388,59.6 15.5165846,50.36 18.1867266,45.3 C25.9159786,30.6528727 40.6708408,20 58.4892394,20 C83.071852,20 103,39.6995152 103,64 Z" id="Shape" fill="url(#linearGradient-3)"></path>
+                        <path d="M103.5,63.5 C103.5,87.8004848 83.4234218,107.5 58.6577113,107.5 C33.3218027,107.5 21.4386178,91.44 21.4386178,72.52 C21.4386178,60.86 13.1427789,54.04 18.0550268,44.8 C25.8418484,30.1528727 40.7065964,19.5 58.6577113,19.5 C83.4234218,19.5 103.5,39.1995152 103.5,63.5 Z" id="Shape" fill="url(#linearGradient-2)"></path>
+                        <path d="M103.5,63.5 C103.5,87.8004848 83.4401032,107.5 58.6949703,107.5 C33.3801131,107.5 25.0912042,92.98 25.0912042,74.06 C25.0912042,62.4 12.0165865,57.56 18.1260223,44.8 C25.2840445,29.8499515 40.7587709,19.5 58.6949703,19.5 C83.4401032,19.5 103.5,39.1995152 103.5,63.5 Z" id="Shape" fill="url(#linearGradient-3)"></path>
+                        <path d="M103,63.7789018 C103,88.2014956 83.1143328,108 58.584123,108 C33.4891373,108 27.9371251,91.4170882 27.9371251,75.2763873 C27.9371251,63.5577963 12.3915499,61.3467414 18.3674987,44.9849351 C25.4633501,29.959751 40.8035856,20 58.584123,20 C83.1143328,20 103,39.356308 103,63.7789018 Z" id="Shape" fill="url(#linearGradient-2)"></path>
+                        <path d="M103,62.7789018 C103,87.2014956 83.7697994,107 58.9390021,107 C32.187735,107 31.9629188,85.9949784 31.0637779,74.9397038 C30.381035,66.5470754 12.1804577,60.3467414 18.229622,43.9849351 C25.4124243,28.959751 40.9407099,19 58.9390021,19 C83.7697994,19 103,38.356308 103,62.7789018 Z" id="Shape" fill="url(#linearGradient-3)"></path>
+                        <path d="M108,68.7738769 C108,93.7515296 88.3084125,114 62.8818543,114 C36.8698828,114 37.4386895,92.0653303 36.8698828,82.5678444 C36.3012029,73.0703586 14.7712429,65.8341789 21.1957412,49.5527745 C28.5508792,34.186109 44.4517322,24 62.8818543,24 C88.3084125,24 108,43.7962241 108,68.7738769 Z" id="Shape" fill="#5140EF"></path>
+                        <path d="M105.780413,62.525504 C105.901451,87.8018476 85.7719513,108.19764 60.2498288,108.078008 C34.7277063,107.958375 38.520625,86.7239964 36.2940203,75.2430806 C34.1618709,64.2492644 12.6579832,60.9448519 18.0947259,42.6639664 C25.4030431,27.1481476 41.3143107,16.9150439 59.8137014,17.0017583 C85.3358239,17.1213913 105.659374,37.2491604 105.780413,62.525504 Z" id="Shape" fill="#231861" transform="translate(61.498845, 62.539871) rotate(-30.000000) translate(-61.498845, -62.539871) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
